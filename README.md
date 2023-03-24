@@ -3,23 +3,25 @@
 [maintainers]: https://img.shields.io/badge/maintainers-3-success.svg 'Number of maintainers'
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-[![deploy](https://github.com/ms-hossain/al-folio/actions/workflows/deploy.yml/badge.svg)](https://github.com/ms-hossain/al-folio/actions/workflows/deploy.yml)
+[![deploy](https://github.com/ms-hossain/hmcs-research/actions/workflows/deploy.yml/badge.svg)](https://github.com/ms-hossain/
+hmcs-research/actions/workflows/deploy.yml)
 [![demo](https://img.shields.io/badge/theme-demo-brightgreen.svg)](https://ms-hossain.github.io/al-folio/)
-[![GitHub contributors](https://img.shields.io/github/contributors/alshedivat/al-folio.svg)](https://github.com/ms-hossain/al-folio/graphs/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/ms-hossain/al-folio.svg)](https://github.com/ms-hossain/hmcs-research/graphs/contributors/)
 [![Maintainers][maintainers]](#maintainers)
-[![GitHub release](https://img.shields.io/github/v/release/ms-hossain/al-folio)](https://github.com/ms-hossain/al-folio/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/ms-hossain/al-folio?color=blue)](https://github.com/ms-hossain/al-folio/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/ms-hossain/al-folio)](https://github.com/ms-hossain/al-folio)
-[![GitHub forks](https://img.shields.io/github/forks/ms-hossain/al-folio)](https://github.com/ms-hossain/al-folio/fork)
+[![GitHub release](https://img.shields.io/github/v/release/ms-hossain/
+hmcs-research)](https://github.com/ms-hossain/hmcs-research/releases/latest)
+[![GitHub license](https://img.shields.io/github/license/ms-hossain/hmcs-research?color=blue)](https://github.com/ms-hossain/al-folio/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/ms-hossain/hmcs-research)](https://github.com/ms-hossain/hmcs-research)
+[![GitHub forks](https://img.shields.io/github/forks/ms-hossain/hmcs-research)](https://github.com/ms-hossain/hmcs-research/fork)
 
 [![Docker Image Version](https://img.shields.io/docker/v/amirpourmand/al-folio?sort=semver&label=docker%20image&color=blueviolet)](https://hub.docker.com/r/amirpourmand/al-folio)
 [![Docker Image Size](https://img.shields.io/docker/image-size/amirpourmand/al-folio?sort=date&label=docker%20image%20size&color=blueviolet)](https://hub.docker.com/r/amirpourmand/al-folio)
-[![Docker Pulls](https://img.shields.io/docker/pulls/amirpourmand/al-folio?color=blueviolet)](https://hub.docker.com/r/amirpourmand/al-folio)
+[![Docker Pulls](https://img.shields.io/docker/pulls/amirpourmand/hmcs-research?color=blueviolet)](https://hub.docker.com/r/amirpourmand/hmcs-researcho)
 
 A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.
 If you like the theme, give it a star!
 
-[![Preview](https://raw.githubusercontent.com/ms-hossain/al-folio/master/assets/img/al-folio-preview.png)](https://ms-hossain.github.io/al-folio/)
+[![Preview](https://raw.githubusercontent.com/ms-hossain/hmcs-research/master/assets/img/al-folio-preview.png)](https://ms-hossain.github.io/hmcs-research/)
 
 
 ## User community
