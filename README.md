@@ -7,8 +7,7 @@
 [![demo](https://img.shields.io/badge/theme-demo-brightgreen.svg)](https://ms-hossain.github.io/al-folio/)
 [![GitHub contributors](https://img.shields.io/github/contributors/ms-hossain/al-folio.svg)](https://github.com/ms-hossain/hmcs-research/graphs/contributors/)
 [![Maintainers][maintainers]](#maintainers)
-[![GitHub release](https://img.shields.io/github/v/release/ms-hossain/
-hmcs-research)](https://github.com/ms-hossain/hmcs-research/releases/latest)
+[![GitHub release](https://img.shields.io/github/v/release/ms-hossain/hmcs-research)](https://github.com/ms-hossain/hmcs-research/releases/latest)
 [![GitHub license](https://img.shields.io/github/license/ms-hossain/hmcs-research?color=blue)](https://github.com/ms-hossain/al-folio/blob/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/ms-hossain/hmcs-research)](https://github.com/ms-hossain/hmcs-research)
 [![GitHub forks](https://img.shields.io/github/forks/ms-hossain/hmcs-research)](https://github.com/ms-hossain/hmcs-research/fork)
