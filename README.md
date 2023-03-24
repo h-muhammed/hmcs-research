@@ -3,8 +3,7 @@
 [maintainers]: https://img.shields.io/badge/maintainers-3-success.svg 'Number of maintainers'
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-[![deploy](https://github.com/ms-hossain/hmcs-research/actions/workflows/deploy.yml/badge.svg)](https://github.com/ms-hossain/
-hmcs-research/actions/workflows/deploy.yml)
+[![deploy](https://github.com/ms-hossain/hmcs-research/actions/workflows/deploy.yml/badge.svg)](https://github.com/ms-hossain/hmcs-research/actions/workflows/deploy.yml)
 [![demo](https://img.shields.io/badge/theme-demo-brightgreen.svg)](https://ms-hossain.github.io/al-folio/)
 [![GitHub contributors](https://img.shields.io/github/contributors/ms-hossain/al-folio.svg)](https://github.com/ms-hossain/hmcs-research/graphs/contributors/)
 [![Maintainers][maintainers]](#maintainers)
